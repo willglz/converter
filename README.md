@@ -1,4 +1,5 @@
 <h1 align="center"> Converter </h1>
-Simple currency, temperature and volume converter for Alura Latam
-<br>
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-brightgreen)
+<p>Simple currency, temperature and volume converter for Alura Latam</p>
+<p align="left">
+  <img src="[https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-brightgreen)">
+</p>
